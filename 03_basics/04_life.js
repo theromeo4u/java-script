@@ -18,4 +18,4 @@
 ((name) => {
     //Unnamed IFFE
     console.log(`DB CONNECTED ${name}`);
-})('Romeo');
+})('Romeo'); 
